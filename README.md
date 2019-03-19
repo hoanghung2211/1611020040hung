@@ -3,12 +3,12 @@
 
 
 
-# Tên: Phan Thành Đạt
-# Ngày sinh: 11/06/1995
+# Tên: võ hoàng hưng
+# Ngày sinh: 22/11/1997
 # Trình độ: Đại học
-# Chuyên môn: Công nghệ thông tin
+# Chuyên môn: web
 # Kinh nghiệm làm việc: chưa có
 
-###### Dự án cá nhân (https://github.com/hoanghung2211/1611020040hung)
-###### Facebook (https://www.facebook.com/jino.hung.3)
-###### Twiter(https://twitter.com)
+###### [Dự án cá nhân](https://github.com/hoanghung2211/1611020040hung)
+###### [Facebook](https://www.facebook.com/jino.hung.3)
+###### [Twiter](https://twitter.com)
